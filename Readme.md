@@ -1,3 +1,4 @@
+<h1>AI Lawyer Chatbot (RAG, Langchain, ollama, Groq, Vector Database & Embeddings)</h1>
 # Project README
 
 This is a Python project with three Python files representing different phases of the project. Below are the instructions for setting up the environment and running the project.
