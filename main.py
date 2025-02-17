@@ -74,7 +74,7 @@ def answer_query(documents, model, query):
     chain = prompt | model
     return chain.invoke({"question": query, "context": context})
 
-st.header("AI Laywer ChatBot (RAG, Multi LLM by Saddam)")
+st.header("AI Laywer Reasoning ChatBot ")
 
 uploaded_file = st.file_uploader(
     "Upload PDF",
